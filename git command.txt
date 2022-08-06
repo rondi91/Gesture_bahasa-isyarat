@@ -1,0 +1,19 @@
+git add .
+git commit -m 'commit 1'
+git push
+
+
+
+
+
+echo "# BISINDO" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/rondi91/BISINDO.git
+git push -u origin main
+
+git remote add origin https://github.com/rondi91/BISINDO.git
+git branch -M main
+git push -u origin main
